@@ -1,7 +1,7 @@
 ---
 title : 华盛顿大学，University of Washington
 feed: show
-date : 10-07-2024
+date : 07-10-2024
 ---
 
 <html lang="zh">
