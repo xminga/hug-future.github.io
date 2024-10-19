@@ -42,7 +42,7 @@ date : 21-8-2024
     <p><strong>入学要求：</strong>学士学位，IELTS 6.5分（小分6.0分），TOEFL 92分（小分22分）。</p>
     <p><strong>课程链接：</strong><a href=" https://www.helsinki.fi/en/degree-programmes/geography-masters-programme " target="_blank">链接</a></p>
 
-       <h4 id="城市研究与规划硕士">1.2.1 <a href=" https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme " target="_blank">城市研究与规划硕士</a></h4>
+       <h4 id="城市研究与规划硕士">1.2.2 <a href=" https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme " target="_blank">城市研究与规划硕士</a></h4>
     <p><strong>介绍：</strong>城市研究与计划的硕士课程（USP）使学生成为能够理解和应对复杂城市发展挑战的专业人员。学生通过课程和教学方法学会解决此类挑战，其中包括跨学科的广度以及知识，技能和实践核心领域的深度。 USP是赫尔辛基大学和阿尔托大学之间的联合计划。城市研究与规划硕士课程中有三个研究轨道：1）USP计划：城市规划和设计2）USP人民：城市生活，经济和文化3）USP系统：城市生态和系统。从下面的链接中了解有关程序结构，内容和课程的更多信息。</p>
     <p><strong>学位、学制和学费：</strong>硕士，2年，每年15000 欧元。 </p>
     <p><strong>申请截止时间：</strong>2025年1月16日（申请截止日期每年变更，请查询官网）</p>
@@ -62,7 +62,7 @@ date : 21-8-2024
     <br>
     <br>
 
-    <h2 id="社会科学学院">🏫4 <a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units" target="_blank">社会科学学院</a></h2>
+    <h2 id="社会科学学院">🏫2 <a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units" target="_blank">社会科学学院</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.helsinki.fi/en/faculty-social-sciences/research/disciplines-and-research-units" target="_blank">主要教授与研究方向</a></h3>
