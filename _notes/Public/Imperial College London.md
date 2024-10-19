@@ -1,7 +1,7 @@
 ---
 title : 帝国理工学院，Imperial College London
 feed: show
-date : 06-8-2024
+date : 06-12-2023
 ---
 
 <html lang="zh">
@@ -24,14 +24,6 @@ date : 06-8-2024
     <p><strong>申请截止时间：</strong>2025年9月开放（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong>IELTS 6.5分（6.0小分），TOEFL 92分（小分20），要求有自然科学、工程科学或计量经济学基础</p>
     <p><strong>课程链接：</strong><a href=" https://www.imperial.ac.uk/earth-science/prosp-students/pg-courses/metals-energy-finance-msc/ " target="_blank">链接</a></p>
-
-    <h4 id="项目名称">1.2.2 <a href="项目网页链接" target="_blank">项目名称</a></h4>
-    <p><strong>介绍：</strong>该项目xxx</p>
-    <p><strong>学位、学制和学费：</strong>学位xxx</p>
-    <p><strong>申请截止时间：</strong>时间xxx（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong>要求xxx</p>
-    <p><strong>课程链接：</strong><a href="课程网页链接" target="_blank">链接</a></p>
-
    
     <br>
     <div class="project-box">
